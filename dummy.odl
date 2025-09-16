@@ -1,0 +1,5 @@
+%define{
+        object Dummy{
+                int32 value=1;
+        }
+}
